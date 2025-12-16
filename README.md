@@ -1,4 +1,4 @@
-Ahhoz, hogy ez működjön, és mindenki a sajátját csinálja, ezt az utasítássort add ki nekik:
+Ahhoz, hogy ez működjön, és mindenki a sajátját csinálja, ezt az utasítássort hajtsátok végre:
 
 Branch: Nyiss egy új ágat a saját neveddel (pl. feature/milan).
 
